@@ -1,0 +1,16 @@
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\bin\Debug\TextChangeNew1.exe.config
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\bin\Debug\TextChangeNew1.exe
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\bin\Debug\TextChangeNew1.pdb
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1.csproj.AssemblyReference.cache
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1.csproj.SuggestedBindingRedirects.cache
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\MainWindow.g.cs
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\App.g.cs
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1_MarkupCompile.cache
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1_MarkupCompile.lref
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\MainWindow.baml
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1.g.resources
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1.Properties.Resources.resources
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1.csproj.GenerateResource.cache
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1.exe
+\\iscsi\profstud\lesnovaa\Downloads\TextChangeNew1-master\TextChangeNew1-master\TextChangeNew1\obj\Debug\TextChangeNew1.pdb
